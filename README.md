@@ -1,8 +1,4 @@
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
+# Tarea 9 y 10
 
 Hacer una pantalla que acepte nombre y apellido, latitud y longitud.
 Al presionar el botón siguiente mostrará un mapa con el marcador posicionado en las coordenadas indicada en la pantalla anterior. 
