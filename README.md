@@ -4,13 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hacer una pantalla que acepte nombre y apellido, latitud y longitud.
+Al presionar el botón siguiente mostrará un mapa con el marcador posicionado en las coordenadas indicada en la pantalla anterior. 
+Al hacer click en el marcador, nos aparecerá el nombre, apellido y la ciudad o país donde está ese marcador. 
+Esto lo puedes hacer en flutter o la tecnología que prefieras para aplicaciones móviles.  Comente el codigo en al menos 2 lugares diferentes, con su nombre y matricula. En alguna esquinas del video debe aparecer usted mientras va explicando. 
