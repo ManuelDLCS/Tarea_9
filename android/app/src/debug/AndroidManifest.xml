@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools">
+    <application>
+        <meta-data
+            android:name="com.google.android.geo.AIzaSyBqmDcnZthjuCnGWwmpHBYjDiofsyy3coU"
+            android:value="AIzaSyBqmDcnZthjuCnGWwmpHBYjDiofsyy3coU" />
+            <uses-library
+            android:name="io.flutter.plugins.googlemaps"
+            tools:overrideLibrary="io.flutter.plugins.googlemaps" />
+    </application>
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
